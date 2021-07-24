@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesseract_ocr_demo", "tesseract_ocr_demo.csproj", "{7A501BC9-1E7E-45D7-8B09-CDEDDECE5A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A501BC9-1E7E-45D7-8B09-CDEDDECE5A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A501BC9-1E7E-45D7-8B09-CDEDDECE5A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A501BC9-1E7E-45D7-8B09-CDEDDECE5A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A501BC9-1E7E-45D7-8B09-CDEDDECE5A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C0FCDE-4122-40C3-866F-601F7608A4F4}
+	EndGlobalSection
+EndGlobal
