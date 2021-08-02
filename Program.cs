@@ -21,7 +21,7 @@ namespace tesseract_ocr_demo
 
         public static string CanParseText()
         {
-            using (var engine = TEngine.CreateEngine())
+            using (var engine = TEngine.CreateEngine("cat"))
             {
                 using (var img = TEngine.LoadTestPix(TeicketFoto))
                 {
